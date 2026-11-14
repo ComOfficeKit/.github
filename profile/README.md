@@ -4,6 +4,9 @@
 
 ComOffice is the document engine behind [LynxOffice](https://lynxoffice.com), packaged as an SDK: read, edit, save and render `.docx`, `.xlsx` and `.pptx` files, and convert them to PDF, in your process, with no Microsoft Office, no LibreOffice and no network calls.
 
+- **Convert in bulk:** a whole folder to PDF at once, on a server in worker processes, or in a Windows or Linux container.
+- **Safe with files you did not write:** macros are kept but never run, a file that would unpack far past its size is refused, and a document that crashes takes down only its own worker.
+
 | Repository | For | Ships as |
 |---|---|---|
 | [ComOfficeKit-Apple](https://github.com/ComOfficeKit/ComOfficeKit-Apple) | iOS, iPadOS and macOS apps, in Swift | Two binary frameworks, with samples |
