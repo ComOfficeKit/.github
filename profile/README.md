@@ -2,7 +2,7 @@
 
 **Word, Excel and PowerPoint files in your own apps and systems.** Powered by KDAN.
 
-ComOffice is the document engine behind [LynxOffice](https://lynxoffice.com), packaged as an SDK: read, edit, save and render `.docx`, `.xlsx` and `.pptx` files in your process, with no Microsoft Office, no LibreOffice and no network calls.
+ComOffice is the document engine behind [LynxOffice](https://lynxoffice.com), packaged as an SDK: read, edit, save and render `.docx`, `.xlsx` and `.pptx` files, and convert them to PDF, in your process, with no Microsoft Office, no LibreOffice and no network calls.
 
 | Repository | For | Ships as |
 |---|---|---|
